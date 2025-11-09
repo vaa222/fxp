@@ -17,7 +17,7 @@ Problem dealing with fixed point number is need to make sure the result is not o
 https://www.youtube.com/watch?v=S12qx1DwjVk
 Fixed Point Arithmetic 1: Intro to Fixed Point
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+![alt text](img/image-0.png)
+![alt text](img/image-1.png)
+![alt text](img/image-2.png)
+![alt text](img/image-3.png)
