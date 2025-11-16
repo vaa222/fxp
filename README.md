@@ -1,5 +1,7 @@
 # fxp
 
+ A variable of type float only has about 7 digits of precision, whereas a variable of type double has about 15 digits of precision.
+
 ![alt text](img/image.png)
 
 
